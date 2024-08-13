@@ -6,7 +6,6 @@ terraform {
       version = "0.36.0"
     }
   }
-}
 
   backend "remote" {
     organization = "datasarva"
